@@ -16,7 +16,7 @@ html { scroll-behavior: smooth; }
 body { font-family: var(--font); background: var(--white); color: var(--black); overflow-x: hidden; }
 a { text-decoration: none; color: inherit; }
 img { display: block; max-width: 100%; }
-p { font-size: 16px; }
+p { font-size: 16px !important; }
 div p { font-size: 16px; }
 
 /* ─── HEADER ─────────────────────────────────────── */
