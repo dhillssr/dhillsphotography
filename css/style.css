@@ -14,7 +14,7 @@
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body { font-family: var(--font); background: var(--white); color: var(--black); overflow-x: hidden; }
-a { text-decoration: none; color: inherit; }
+a { text-decoration: none; align-items: center; color: #090909; display: flex; font-size: 15px; font-weight: 300; gap: normal 3.75px; justify-content: center; letter-spacing: 1px; line-height: 24.375px; text-transform: uppercase; }
 img { display: block; max-width: 100%; }
 p { color: #0a0203 !important; font-size: 20px !important; line-height: 30px !important; }
 div p { color: #0a0203 !important; font-size: 20px !important; line-height: 30px !important; }
